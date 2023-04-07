@@ -1,0 +1,3 @@
+(foo "abc")
+(foo 1)
+exit
